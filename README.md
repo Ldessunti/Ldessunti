@@ -7,9 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldessunti&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
-  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ldessunti&theme=cobalt&hide_border=true&area=true)
-  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ldessunti&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
